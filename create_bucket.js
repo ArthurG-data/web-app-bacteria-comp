@@ -45,8 +45,8 @@ async function tagBucket(bucketName, qutUsername, purpose){
 }
 
 async function main() {
-    const bucketName = 'n11371200-blob';
-    const qutUsername = 'n11371200@qut.edu.au';
+    const bucketName = process.env.BUCKET_NAME;
+    const qutUsername = process.env.QUT_USERNAME;
     const purpose = 'files-web-app';
     try{
         const creation = await createNewBucket(bucketName);
