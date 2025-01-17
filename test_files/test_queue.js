@@ -2,7 +2,7 @@ const SQS = require("@aws-sdk/client-sqs");
 const {getParameter} = require('../server/middlewares/parameterManager.js');
 
 const message = "This is the message that will be queued.";
-const sqsQueueUrl = "https://sqs.ap-southeast-2.amazonaws.com/901444280953/n11371200-app-queue";
+const sqsQueueUrl = process.env.QUEUE_URL;
 const client = new SQS.SQSClient({
   region: "ap-southeast-2",
 });
