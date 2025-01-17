@@ -1,8 +1,8 @@
 const DynamoDB = require("@aws-sdk/client-dynamodb");
 const DynamoDBLib = require("@aws-sdk/lib-dynamodb");
 
-const qutUsername = "n11371200@qut.edu.au";
-const tableName = "A2_n11371200_Journal";
+const qutUsername =  process.env.qutUsername;
+const tableName = process.env.TABLE_NAME;
 const sortKey = "name";
 
 
