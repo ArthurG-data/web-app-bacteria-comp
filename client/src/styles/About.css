@@ -1,0 +1,16 @@
+section {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    text-align : center;
+    width: 80%;
+  }
+main {
+     justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  min-height: 100vh; /* Take up at least the full height of the viewport */
+  padding: 20px; 
+  }

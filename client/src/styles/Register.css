@@ -1,0 +1,55 @@
+.register-container {
+    display: flex;
+    flex-direction: column; /* Stack elements vertically */
+    align-items: center; /* Center align items horizontally */
+    margin: 0 auto; /* Center align container if needed */
+    max-width: 600px; /* Adjust as needed */
+    padding: 20px;
+    background-color: #f4f4f4; /* Background color for the container */
+    border-radius: 8px; /* Rounded corners for the container */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow */
+  }
+  
+  .register-form {
+    display: flex;
+    flex-direction: column; /* Stack form elements vertically */
+    width: 50%; /* Full width of the container */
+    margin-bottom: 20px; /* Space below the form */
+    padding: 20px;
+    background-color: #fff; /* Background color for the form */
+    border-radius: 8px; /* Rounded corners for the form */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional shadow */
+  }
+
+  .register-form input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px; /* Add space above the button */
+  }
+
+  .register-container {
+    display: flex;
+    margin: 80px auto ;
+    flex-direction: column; /* Stack elements vertically */
+    align-items: center; /* Center align items horizontally */
+  
+    max-width: 600px; /* Adjust as needed */
+    padding: 10px;
+    padding-top: 40px; /* Add padding at the top */
+    background-color: #f4f4f4; /* Background color for the container */
+    border-radius: 8px; /* Rounded corners for the container */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow */
+  }
+  .error-messages {
+    margin-top: 20px;
+    color: red;
+  }
+  
+  .error-messages ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
