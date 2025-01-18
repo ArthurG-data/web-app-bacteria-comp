@@ -1,3 +1,4 @@
+![](client/src/assets/img/stochastome_logo.jfif)
 
 # Bacterial Protein Sequence Similarity Web App
 
