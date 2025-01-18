@@ -45,6 +45,10 @@ Welcome to the **Bacterial Protein Sequence Similarity Web App**, a cloud-based 
    - A load balancer distributes requests to EC2 instances for computation.
 ---
 
+The Client View
+
+![Screenshot 2025-01-18 103158](https://github.com/user-attachments/assets/03ef5ff8-d350-4b6e-9046-3b1a8261a919)
+
 Walkthrough of Main Functionalities:
 
 https://github.com/user-attachments/assets/03c76b14-d9c4-48d4-b5a9-fafe9fdff047
