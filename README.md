@@ -31,6 +31,15 @@ Welcome to the **Bacterial Protein Sequence Similarity Web App**, a cloud-based 
    - DNS ensures secure access with HTTPS.
    - Static pages are rendered from Amazon S3.
    - A load balancer distributes requests to EC2 instances for computation.
+---
+
+Walkthrough of Main Functionalities:
+
+https://github.com/user-attachments/assets/03c76b14-d9c4-48d4-b5a9-fafe9fdff047
+
+AWS Load Balancing Implementation:
+
+https://github.com/user-attachments/assets/8de21630-fa87-4cda-ab43-6496a31c6f92
 
 ---
 
