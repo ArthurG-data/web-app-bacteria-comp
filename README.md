@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="client/src/assets/img/stochastome_logo.jfif" alt="Stochastome Logo" style="width: 100%; max-width: 800px; height: 20px;"/>
+  <img src="client/src/assets/img/stochastome_logo.jfif" alt="Stochastome Logo" style="width: 100%; max-width: 800px; height: 200px;"/>
 </p>
 
 # Bacterial Protein Sequence Similarity Web App
