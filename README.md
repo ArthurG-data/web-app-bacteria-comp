@@ -5,13 +5,13 @@
 Welcome to the **Bacterial Protein Sequence Similarity Web App**, a cloud-based platform enabling users to upload FASTA files with bacterial protein sequences and compute similarity scores based on 5-mer frequency counts. The application leverages a robust cloud infrastructure to deliver efficient processing, secure data handling, and scalable performance.
 
 ### Technologies Used
-
+<p align="center">
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-- 
+</p>
 ---
 
 ## **Features**
